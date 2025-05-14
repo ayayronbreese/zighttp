@@ -1,2 +1,4 @@
 ./deps/*
+./deps/
 ./deps
+./deps/msquic
